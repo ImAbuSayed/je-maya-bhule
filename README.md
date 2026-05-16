@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-maya-bhule/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Je Maya Bhule](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-maya-bhule/) |
+| **Get License** | [Get License For Je Maya Bhule](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-maya-bhule/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> যে মায়া ভুলে দূরে সরে যাও
+> আঁধারের বুকে আলো কেন দাও
+> স্মৃতির আগুনে পোড়ে এই মন
+> নীরবে কাঁদে আমার এ জীবন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
